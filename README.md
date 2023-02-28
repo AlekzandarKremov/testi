@@ -24,4 +24,4 @@ This is Normal Text
 - [X] Syö
 - [X] Pelaa
 - [X] Tee Tehtävät
-- [] Nuku
+- [ ] Nuku
