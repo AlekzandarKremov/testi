@@ -1,20 +1,20 @@
-# h1 Otsikko
-*Italic Text*
-## h2 Otsikko
-**Bold Text**
-### h3 Otsikko
-1. Ordered
-2. List
-3. LOL
-#### h4 Otsikko
-- Unordered
-- List
-- LOL
-##### h5 Otsikko
-
-###### h6 Otsikko
+# Taulukko
 | Lintuja     | Vaatteita   | Ruokia      |
 | ----------- | ----------- | ----------- |
 | Kana        | Housut      | Salaatti    |
 | Pingviini   | Paita       | Liha        |
 | Talitintti  | Kengät      | Makaroni    |
+## Normal Text
+This is Normal Text
+### Ordered List
+1. Moi1
+2. Moi2
+3. Moi3
+#### Unordered List
+- Moi2
+- Moi3
+- Moi1
+##### **Bold Text Example**
+**Bold Text**
+###### *Italic Text Example*
+*Italic Text*
