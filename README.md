@@ -13,7 +13,8 @@
 ##### h5 Otsikko
 
 ###### h6 Otsikko
-| Siisti      | Taulukko    |
-| ----------- | ----------- |
-| Kissa       | Koira       |
-| Kana        | Kala        |
+| Lintuja     | Vaatteita   | Ruokia      |
+| ----------- | ----------- | ----------- |
+| Kana        | Housut      | Salaatti    |
+| Pingviini   | Paita       | Liha        |
+| Talitintti  | Kengät      | Makaroni    |
