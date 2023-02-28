@@ -29,9 +29,6 @@ This is Normal Text
 - [X] Tee Tehtävät
 - [ ] Nuku
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+Koodia WOW
+
 ```
