@@ -18,3 +18,5 @@ This is Normal Text
 **Bold Text**
 ###### *Italic Text Example*
 *Italic Text*
+### ~~Strikethrough Example~~
+~~Maapallo on litteä~~
