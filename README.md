@@ -13,7 +13,7 @@
 ##### h5 Otsikko
 
 ###### h6 Otsikko
-| Siisti | Taulukko |
+| Siisti      | Taulukko    |
 | ----------- | ----------- |
-| Kissa | Koira |
-| lintu | kala |
+| Kissa       | Koira       |
+| Kana        | Kala        |
