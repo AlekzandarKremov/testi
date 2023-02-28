@@ -20,3 +20,7 @@ This is Normal Text
 *Italic Text*
 ### ~~Strikethrough Example~~
 ~~Maapallo on litteä~~
+### Task List Example
+- [x] Syö
+- [ ] Pelaa
+- [x] Nuku
