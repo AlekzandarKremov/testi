@@ -1,4 +1,4 @@
-# Taulukko
+# Taulukko 😹
 | Lintuja     | Vaatteita   | Ruokia      |
 | ----------- | ----------- | ----------- |
 | Kana        | Housut      | Salaatti    |
