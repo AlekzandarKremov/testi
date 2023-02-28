@@ -21,6 +21,6 @@ This is Normal Text
 ### ~~Strikethrough Example~~
 ~~Maapallo on litteä~~
 ### Task List Example
-- [x] Syö
+- [X] Syö
 - [ ] Pelaa
 - [x] Nuku
