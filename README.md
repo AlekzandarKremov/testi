@@ -28,3 +28,10 @@ This is Normal Text
 - [X] Pelaa
 - [X] Tee Tehtävät
 - [ ] Nuku
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
