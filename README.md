@@ -29,6 +29,6 @@ This is Normal Text
 - [X] Tee Tehtävät
 - [ ] Nuku
 ```
-Tässä voisi vaika olla koodia mitä voisi kopioida
+Tässä voisi vaikka olla koodia mitä voisi kopioida
 
 ```
