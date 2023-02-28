@@ -13,7 +13,7 @@
 ##### h5 Otsikko
 
 ###### h6 Otsikko
-| Syntax | Description |
+| Siisti | Taulukko |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Kissa | Koira |
+| lintu | kala |
