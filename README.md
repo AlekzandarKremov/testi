@@ -22,5 +22,6 @@ This is Normal Text
 ~~Maapallo on litteä~~
 ### Task List Example
 - [X] Syö
-- [ ] Pelaa
-- [x] Nuku
+- [X] Pelaa
+- [X] Tee Tehtävät
+- [] Nuku
