@@ -33,3 +33,4 @@ This is Normal Text
 Tässä voisi vaikka olla koodia mitä voisi kopioida
 
 ```
+  ![Tux, the Linux mascot](/assets/images/emoji.png)
