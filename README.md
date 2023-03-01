@@ -33,4 +33,4 @@ This is Normal Text
 Tässä voisi vaikka olla koodia mitä voisi kopioida
 
 ```
-
+![Cool Emoji](emoji.jpg)
