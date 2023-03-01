@@ -10,13 +10,14 @@ This is Normal Text
 1. Moi1
 2. Moi2
 3. Moi3
-#### Unordered List 
+#### Unordered Lists
 - Moi2
 - Moi3
 - Moi1
-  - Moi5
-    - Moi6
-    - Moi4
+
+* Moi5
+* Moi6
+* Moi4
 ##### **Bold Text Example**
 **Bold Text**
 ###### *Italic Text Example*
